@@ -1,0 +1,11 @@
+X86 updates:
+Version: {{stable-x86-Version}}
+Download: {{stable-x86-dl-alternative}}
+SHA256: {{stable-x86-SHA256}}
+Size: {{stable-x86-Size}}
+
+X64 updates:
+Version: {{stable-x64-Version}}
+Download: {{stable-x64-dl-alternative}}
+SHA256: {{stable-x64-SHA256}}
+Size: {{stable-x64-Size}}

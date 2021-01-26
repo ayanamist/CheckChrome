@@ -30,7 +30,7 @@ curl -s "https://tools.google.com/service/update2" --data "<?xml version='1.0' e
             </app>
             </request>" > ./tmp/checker/stable-x64.xml
 
-sleep 1
+exit 0
 
 echo 'Checking Chrome Beta x86 ......'
 
